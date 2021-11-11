@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Xiang-yuZHAO.github.io</id>
     <title>磕盐拾荒者</title>
-    <updated>2021-11-11T03:19:42.889Z</updated>
+    <updated>2021-11-11T14:34:08.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Xiang-yuZHAO.github.io"/>
     <link rel="self" href="https://Xiang-yuZHAO.github.io/atom.xml"/>
@@ -11,17 +11,17 @@
     <icon>https://Xiang-yuZHAO.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 磕盐拾荒者</rights>
     <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://Xiang-yuZHAO.github.io/post/about/</id>
+        <link href="https://Xiang-yuZHAO.github.io/post/about/">
+        </link>
+        <updated>2021-11-11T11:09:48.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[出生点]]></title>
         <id>https://Xiang-yuZHAO.github.io/post/blog1/</id>
         <link href="https://Xiang-yuZHAO.github.io/post/blog1/">
         </link>
         <updated>2021-11-09T05:50:12.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://Xiang-yuZHAO.github.io/post/about/</id>
-        <link href="https://Xiang-yuZHAO.github.io/post/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
     </entry>
 </feed>
