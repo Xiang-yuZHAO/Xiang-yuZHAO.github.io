@@ -2,54 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Xiang-yuZHAO.github.io</id>
     <title>磕盐拾荒者</title>
-    <updated>2021-12-13T14:14:54.525Z</updated>
+    <updated>2022-03-12T08:38:41.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Xiang-yuZHAO.github.io"/>
     <link rel="self" href="https://Xiang-yuZHAO.github.io/atom.xml"/>
     <subtitle>从前有座山，山上有个庙，庙里有个老和尚</subtitle>
     <logo>https://Xiang-yuZHAO.github.io/images/avatar.png</logo>
     <icon>https://Xiang-yuZHAO.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 磕盐拾荒者</rights>
-    <entry>
-        <title type="html"><![CDATA[如何撰写一篇综述(Review)]]></title>
-        <id>https://Xiang-yuZHAO.github.io/post/ru-he-zhuan-xie-yi-pian-zong-shu-review/</id>
-        <link href="https://Xiang-yuZHAO.github.io/post/ru-he-zhuan-xie-yi-pian-zong-shu-review/">
-        </link>
-        <updated>2021-12-01T13:16:45.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胸腺和免疫]]></title>
-        <id>https://Xiang-yuZHAO.github.io/post/xiong-xian-he-mian-yi/</id>
-        <link href="https://Xiang-yuZHAO.github.io/post/xiong-xian-he-mian-yi/">
-        </link>
-        <updated>2021-11-26T13:26:32.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[严肃研究]铁死亡的机制以及在肿瘤中的应用]]></title>
-        <id>https://Xiang-yuZHAO.github.io/post/tie-si-wang-de-ji-zhi-yi-ji-zai-zhong-liu-zhong-de-ying-yong/</id>
-        <link href="https://Xiang-yuZHAO.github.io/post/tie-si-wang-de-ji-zhi-yi-ji-zai-zhong-liu-zhong-de-ying-yong/">
-        </link>
-        <updated>2021-11-19T06:49:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://Xiang-yuZHAO.github.io/post/about/</id>
-        <link href="https://Xiang-yuZHAO.github.io/post/about/">
-        </link>
-        <updated>2021-11-11T11:09:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[严肃研究]婚姻与肿瘤]]></title>
-        <id>https://Xiang-yuZHAO.github.io/post/yan-su-yan-jiu-hun-yin-yu-zhong-liu/</id>
-        <link href="https://Xiang-yuZHAO.github.io/post/yan-su-yan-jiu-hun-yin-yu-zhong-liu/">
-        </link>
-        <updated>2021-11-11T09:18:40.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出生点]]></title>
-        <id>https://Xiang-yuZHAO.github.io/post/blog1/</id>
-        <link href="https://Xiang-yuZHAO.github.io/post/blog1/">
-        </link>
-        <updated>2021-11-09T05:50:12.000Z</updated>
-    </entry>
+    <rights>All rights reserved 2022, 磕盐拾荒者</rights>
 </feed>
