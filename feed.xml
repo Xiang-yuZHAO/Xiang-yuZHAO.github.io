@@ -3,14 +3,14 @@
     <title>Z-Tales</title>
     <link href="https://xiang-yuzhao.github.io/feed.xml" rel="self" />
     <link href="https://xiang-yuzhao.github.io" />
-    <updated>2026-01-09T22:15:01+08:00</updated>
+    <updated>2026-01-10T02:05:42+08:00</updated>
     <author>
         <name>XY ZHAO</name>
     </author>
     <id>https://xiang-yuzhao.github.io</id>
 
     <entry>
-        <title>test2</title>
+        <title>汉字研究</title>
         <author>
             <name>XY ZHAO</name>
         </author>
@@ -19,16 +19,8 @@
             <category term="不务正业"/>
 
         <updated>2026-01-09T21:53:55+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    test2
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>test2</p>
-            ]]>
-        </content>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
         <title>肿瘤血管生成概述及研究历史</title>

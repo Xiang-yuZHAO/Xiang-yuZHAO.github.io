@@ -12,9 +12,7 @@
         {
             "id": "https://xiang-yuzhao.github.io/test2.html",
             "url": "https://xiang-yuzhao.github.io/test2.html",
-            "title": "test2",
-            "summary": "test2",
-            "content_html": "<p>test2</p>",
+            "title": "汉字研究",
             "author": {
                 "name": "XY ZHAO"
             },
@@ -22,7 +20,7 @@
                    "不务正业"
             ],
             "date_published": "2026-01-09T21:53:55+08:00",
-            "date_modified": "2026-01-09T21:53:55+08:00"
+            "date_modified": "2026-01-10T02:05:42+08:00"
         },
         {
             "id": "https://xiang-yuzhao.github.io/test.html",
