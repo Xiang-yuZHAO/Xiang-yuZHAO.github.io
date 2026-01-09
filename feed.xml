@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Z-Tales</title>
+    <link href="https://xiang-yuzhao.github.io/feed.xml" rel="self" />
+    <link href="https://xiang-yuzhao.github.io" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>XY ZHAO</name>
+    </author>
+    <id>https://xiang-yuzhao.github.io</id>
+
+</feed>
